@@ -1,0 +1,25 @@
+[27Apr2025 00:00:01.579] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[27Apr2025 00:00:01.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[27Apr2025 00:00:01.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[27Apr2025 00:00:01.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[27Apr2025 00:00:27.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev has made the advancement [Isn't It Iron Pick]
+[27Apr2025 00:00:27.240] [Render thread/INFO] [net.minecraft.client.gui.components.ChatComponent/]: [System] [CHAT] Dev has made the advancement [Isn't It Iron Pick]
+[27Apr2025 00:00:27.241] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 12 advancements
+[27Apr2025 00:01:01.079] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[27Apr2025 00:01:01.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[27Apr2025 00:01:01.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[27Apr2025 00:01:01.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[27Apr2025 00:01:01.787] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dev lost connection: Disconnected
+[27Apr2025 00:01:01.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev left the game
+[27Apr2025 00:01:01.794] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stopping singleplayer server as player logged out
+[27Apr2025 00:01:01.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[27Apr2025 00:01:01.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[27Apr2025 00:01:01.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[27Apr2025 00:01:02.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[27Apr2025 00:01:02.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[27Apr2025 00:01:02.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[27Apr2025 00:01:03.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (New World): All chunks are saved
+[27Apr2025 00:01:03.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[27Apr2025 00:01:03.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[27Apr2025 00:01:03.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[27Apr2025 00:01:04.131] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!
