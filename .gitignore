@@ -51,6 +51,8 @@ run-server/
 *.class
 *.jar
 !gradle/wrapper/gradle-wrapper.jar
+.gradle/
+build/
 
 # Temp files
 *~
