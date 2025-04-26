@@ -1,0 +1,69 @@
+# Gradle.gradle/build/
+out/
+classes/
+
+# Gradle wrapper
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+
+# Eclipse
+*.launch
+.settings/
+.metadata/
+.classpath
+.project
+bin/
+eclipse/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+*.idea
+.run/
+
+# VSCode
+.vscode/
+.settings/
+bin/
+.classpath
+.project
+
+# macOS
+.DS_Store
+*.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Minecraft/Forge
+logs/
+run/
+run-data/
+run-server/
+.mixin.out/
+*.log
+
+# Compiled files
+*.class
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+
+# Temp files
+*~
+*.tmp
+*.bak
+hs_err_pid*
+
+# Crash reports
+crash-reports/
+crashes/
+
+# Generated resources
+src/generated/resources/.cache/
+
+# Local configuration
+local.properties
